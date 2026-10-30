@@ -26,8 +26,8 @@ Requisito: Python 3.9 ou mais novo.
 
 ```bash
 # 1. Baixe o projeto e entre na pasta
-git clone https://github.com/SEU-USUARIO/dashboard-vendas.git
-cd dashboard-vendas
+git clone https://github.com/DgggLoveCats/dashboard.git
+cd dashboard
 
 # 2. Instale as dependências
 python -m pip install -r requirements.txt
