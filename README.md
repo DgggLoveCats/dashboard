@@ -1,8 +1,8 @@
-[README_dashboard.md](https://github.com/user-attachments/files/34162867/README_dashboard.md)
-
 # 📈 Painel de Vendas
 
 Dashboard interativo em Python (Streamlit) que transforma planilhas de vendas, **mesmo bagunçadas e em formatos diferentes**, em indicadores e gráficos que um gestor entende em segundos.
+
+> 📸 *Coloque aqui um print ou GIF do painel (veja a seção "Como apresentar" abaixo).*
 
 ## O que ele mostra
 
@@ -26,7 +26,7 @@ Requisito: Python 3.9 ou mais novo.
 
 ```bash
 # 1. Baixe o projeto e entre na pasta
-git clone https://github.com/DgggLoveCats/dashboard-vendas.git
+git clone https://github.com/SEU-USUARIO/dashboard-vendas.git
 cd dashboard-vendas
 
 # 2. Instale as dependências
